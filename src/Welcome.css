@@ -1,0 +1,6 @@
+.Jumbotron {
+    background-image: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url('https://static01.nyt.com/images/2019/12/17/books/review/17fatbooks/17fatbooks-mobileMasterAt3x.jpg');
+}
+.Jumbotron h1, p {
+    color: #fff;
+}
